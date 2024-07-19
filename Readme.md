@@ -1,4 +1,3 @@
-```markdown
 # Custom DataTable with Tailwind CSS v2
 
 This project demonstrates how to configure a custom DataTable using Tailwind CSS v2.
@@ -20,7 +19,7 @@ To use this custom DataTable configuration, you need to have a basic understandi
 You can include Tailwind CSS in your project by adding the following CDN link in the `<head>` of your HTML file:
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
 ```
 
 ## Usage
@@ -35,7 +34,7 @@ You can include Tailwind CSS in your project by adding the following CDN link in
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Date Filter</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
 </head>
 <body>
     <div class="absolute top-0">
