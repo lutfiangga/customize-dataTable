@@ -1,0 +1,6 @@
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+```
+
+Save the above content in a file named `README.md`. This file provides a comprehensive guide on how to use and customize the custom DataTable with Tailwind CSS v2.
